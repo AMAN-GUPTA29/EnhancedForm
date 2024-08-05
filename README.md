@@ -18,8 +18,6 @@
 - Listens to the "form-submissions" Kafka topic.
 - Parses messages and sends SMS notifications based on response data.
 
-![Design](https://github.com/abhay2002-pro/Atlan-Backend-Assignment/blob/main/System-Design.png)
-
 ## MongoDB Choice:
 The choice of MongoDB was made due to the unstructured format of forms and responses. MongoDB's flexible schema allows for easy adaptation to changing requirements and supports the dynamic nature of form data.
 
